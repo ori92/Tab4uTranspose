@@ -1,0 +1,16 @@
+{
+  "name": "tab4u",
+  "version": "1.0.3",
+  "description": "js to manipulate tab4u pages and allows transposition. now allow easy version too",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Oir Eliyahu",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
